@@ -3,7 +3,7 @@
 ## Overview:
 This repo contains my case study and analysis document made for basic university managment database with basic concepts of database schema design.
 The document uploaded contains detailed explanation at each step about the process we followed.
-The SQL file attached
+The SQL file attached here contains all the relations and some dummy insertions to showcase the database design.
 
 #### The concepts used:
 * basic abstart on sum assumptions.
