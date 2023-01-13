@@ -16,3 +16,4 @@ The SQL file attached here contains all the relations and some dummy insertions 
 
 ### Usage:
 The application uses php as its only language, which is the only installation required.
+The Database connection can be provided with MySQL database.
