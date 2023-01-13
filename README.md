@@ -15,5 +15,4 @@ The SQL file attached here contains all the relations and some dummy insertions 
 * basic CRUD queries in SQL to show application.
 
 ### Usage:
-The application uses php as its only language, which is the only installation required.
-The Database connection can be provided with MySQL database.
+The database is important part of any software, this shows very deep analysis of sample database formation. 
