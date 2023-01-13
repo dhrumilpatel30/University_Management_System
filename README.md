@@ -13,3 +13,6 @@ The SQL file attached here contains all the relations and some dummy insertions 
 * Normalization of schema(till 3NF and BCNF).
 * Implementation in database by sql.
 * basic CRUD queries in SQL to show application.
+
+### Usage:
+The application uses php as its only language.
