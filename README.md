@@ -15,4 +15,4 @@ The SQL file attached here contains all the relations and some dummy insertions 
 * basic CRUD queries in SQL to show application.
 
 ### Usage:
-The application uses php as its only language.
+The application uses php as its only language, which is the only installation required.
