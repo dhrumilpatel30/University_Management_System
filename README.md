@@ -14,5 +14,5 @@ The SQL file attached here contains all the relations and some dummy insertions 
 * Implementation in database by sql.
 * basic CRUD queries in SQL to show application.
 
-### Usage:
+#### Usage:
 The database is important part of any software, this shows very deep analysis of sample database formation. 
