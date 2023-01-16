@@ -5,7 +5,7 @@ This repo contains my case study and analysis document made for basic university
 The document uploaded contains detailed explanation at each step about the process we followed.
 The SQL file attached here contains all the relations and some dummy insertions to showcase the database design.
 
-#### The concepts used:
+##### The concepts used:
 * basic abstart on sum assumptions.
 * ER diagram of that.
 * the conversion of ER diagram into schema.
@@ -14,5 +14,5 @@ The SQL file attached here contains all the relations and some dummy insertions 
 * Implementation in database by sql.
 * basic CRUD queries in SQL to show application.
 
-#### Usage:
+##### Usage:
 The database is important part of any software, this shows very deep analysis of sample database formation. 
